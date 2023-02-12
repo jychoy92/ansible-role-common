@@ -1,0 +1,15 @@
+---
+packages_install: 
+# <package_name>-<version>-<release>
+# Version and Release are optional
+  - htop
+  - vim
+  - tree
+  - net-tools
+  - tmux
+
+packages_remove:
+
+enable_services:
+
+disable_services:
