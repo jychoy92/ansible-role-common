@@ -8,8 +8,8 @@ packages_install:
   - net-tools
   - tmux
 
-packages_remove:
+packages_remove: []
 
-enable_services:
+enable_services: []
 
-disable_services:
+disable_services: [firewalld]
